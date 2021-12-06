@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm [𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊](t.me/Abh1sh3kOp) | [![Profile Views](https://gpvc.arturio.dev/Abh1sh3k-Officia)](https://github.com/Abh1sh3k-Official)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm [ADITYA](t.me/Abh1sh3kOp) | [![Profile Views](https://gpvc.arturio.dev/Abh1sh3k-Officia)](https://github.com/Abh1sh3k-Official)
 
 <p align="center">
   <a href="https://github.com/Abh1sh3k-Official"><img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></a>
