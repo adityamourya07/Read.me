@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm [ADITYA](t.me/Abh1sh3kOp) | [![Profile Views](https://gpvc.arturio.dev/Abh1sh3k-Officia)](https://github.com/Abh1sh3k-Official)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm [ADITYA](t.me/Aditya Mourya) | [![Profile Views](https://gpvc.arturio.dev/Abh1sh3k-Officia)](https://github.com/Abh1sh3k-Official)
 
 <p align="center">
   <a href="https://github.com/Abh1sh3k-Official"><img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></a>
@@ -24,7 +24,7 @@
 
  
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abh1sh3k-Official&custom_title=Languages%20I%20Use&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-mourya07&custom_title=Languages%20I%20Use&theme=tokyonight&hide_border=true)
 
   
   
@@ -40,4 +40,4 @@
   
   
   ### SOCIAL MEDIA🥀
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Abh1sh3kOP) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/Abh1sh3k-Official) [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/dad_iz_here) [![Twitter](https://img.shields.io/badge/Twitter-1b77FF.svg?style=for-the-badge&logo=twitter)](https://twitter.com/BADBOYABHI18d) [![Pinterest](https://img.shields.io/badge/Pinterest-darkred?style=for-the-badge&logo=pinterest)](https://in.pinterest.com/abh1sh3k_official)
+ [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/adityamourya07) [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/pg_aditya07) 
